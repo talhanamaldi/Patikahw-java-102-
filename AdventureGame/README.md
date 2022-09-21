@@ -1,1 +1,1 @@
-Java kullanılarak konsol üzerinden oynanabilen ve oop programlamayı temel almış bir oyun.
+Java kullanılarak konsol üzerinden oynanabilen ve oop i temel alan bir oyun.
